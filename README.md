@@ -5,4 +5,6 @@ udacity's data analysis nanodegree project.
 
 ### the project is on this blog : https://khaledsalahblog.wordpress.com/titanic/
 
-### and the script is one the repo "ipython_code.ipynb" .
+### and some graphs and visualization of the data on this link [titanic-basic-graphs-and-statistics](https://khaledsalahblog.wordpress.com/2016/10/24/titanic-basic-graphs-and-statistics/)
+  
+### and the script is one the repo "ipythonCode.ipynb" .
